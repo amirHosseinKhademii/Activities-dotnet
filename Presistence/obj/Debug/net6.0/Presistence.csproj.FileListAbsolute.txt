@@ -1,0 +1,15 @@
+/Users/amirhosseinkhademi/Job/Private/DotNet/Reactivity/Presistence/bin/Debug/net6.0/Presistence.deps.json
+/Users/amirhosseinkhademi/Job/Private/DotNet/Reactivity/Presistence/bin/Debug/net6.0/Presistence.dll
+/Users/amirhosseinkhademi/Job/Private/DotNet/Reactivity/Presistence/bin/Debug/net6.0/Presistence.pdb
+/Users/amirhosseinkhademi/Job/Private/DotNet/Reactivity/Presistence/bin/Debug/net6.0/Domain.dll
+/Users/amirhosseinkhademi/Job/Private/DotNet/Reactivity/Presistence/bin/Debug/net6.0/Domain.pdb
+/Users/amirhosseinkhademi/Job/Private/DotNet/Reactivity/Presistence/obj/Debug/net6.0/Presistence.csproj.AssemblyReference.cache
+/Users/amirhosseinkhademi/Job/Private/DotNet/Reactivity/Presistence/obj/Debug/net6.0/Presistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirhosseinkhademi/Job/Private/DotNet/Reactivity/Presistence/obj/Debug/net6.0/Presistence.AssemblyInfoInputs.cache
+/Users/amirhosseinkhademi/Job/Private/DotNet/Reactivity/Presistence/obj/Debug/net6.0/Presistence.AssemblyInfo.cs
+/Users/amirhosseinkhademi/Job/Private/DotNet/Reactivity/Presistence/obj/Debug/net6.0/Presistence.csproj.CoreCompileInputs.cache
+/Users/amirhosseinkhademi/Job/Private/DotNet/Reactivity/Presistence/obj/Debug/net6.0/Presistence.csproj.CopyComplete
+/Users/amirhosseinkhademi/Job/Private/DotNet/Reactivity/Presistence/obj/Debug/net6.0/Presistence.dll
+/Users/amirhosseinkhademi/Job/Private/DotNet/Reactivity/Presistence/obj/Debug/net6.0/refint/Presistence.dll
+/Users/amirhosseinkhademi/Job/Private/DotNet/Reactivity/Presistence/obj/Debug/net6.0/Presistence.pdb
+/Users/amirhosseinkhademi/Job/Private/DotNet/Reactivity/Presistence/obj/Debug/net6.0/ref/Presistence.dll
