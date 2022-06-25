@@ -1,5 +1,14 @@
 namespace Domain
 {
-    public record Activity(Guid Id, string Title, DateTime Date, string Description, string Category, string City, string Venue);
 
+    public record Activity
+    {
+        public Guid Id { get; init; }
+        public string Title { get; init; }
+        public DateTime Date { get; init; }
+        public string Description { get; init; }
+        public string Category { get; init; }
+        public string City { get; init; }
+        public string Venue { get; init; }
+    }
 }
