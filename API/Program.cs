@@ -1,5 +1,7 @@
 using Presistence;
 using Microsoft.EntityFrameworkCore;
+using MediatR;
+using Application.Activities;
 
 var builder = WebApplication.CreateBuilder(args);
 var _config = builder.Configuration.GetConnectionString("DefaultConnection");
@@ -12,6 +14,7 @@ builder.Services.AddDbContext<DataContext>(options =>
 {
     options.UseSqlite(_config);
 });
+builder.Services.AddMediatR(typeof(List.Handler).Assembly);
 
 var context = builder.Services.BuildServiceProvider().GetService<DataContext>();
 context.Database.Migrate();

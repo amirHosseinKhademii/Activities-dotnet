@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "GGG5vRSkZJCkQTNAUteEash2KR5J7W8XOBWIiPk0tL6r+vDCa/1qf51VMt08n2oA9ILv3ky8+WCPzGizQyavEw==",
+  "dgSpecHash": "/mkCWJyvkXSsZ4bqRIeRmCI+VOk0Yu8TZ7i8RDnNnsX/q0d4TEXR/Vdw9/G536TZxtTY0HzwY7WEwyCFoWxuYg==",
   "success": true,
   "projectFilePath": "/Users/amirhosseinkhademi/Job/Private/DotNet/Reactivity/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/amirhosseinkhademi/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/amirhosseinkhademi/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
+    "/Users/amirhosseinkhademi/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/amirhosseinkhademi/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/10.0.1/mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "/Users/amirhosseinkhademi/.nuget/packages/microsoft.data.sqlite.core/6.0.6/microsoft.data.sqlite.core.6.0.6.nupkg.sha512",
     "/Users/amirhosseinkhademi/.nuget/packages/microsoft.entityframeworkcore/6.0.6/microsoft.entityframeworkcore.6.0.6.nupkg.sha512",
     "/Users/amirhosseinkhademi/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.6/microsoft.entityframeworkcore.abstractions.6.0.6.nupkg.sha512",
