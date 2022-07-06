@@ -18,13 +18,7 @@ namespace API.Controllers
 
         public async Task<ActionResult<Activity>> GetActivity(Guid id)
         {
-            // var activity = await _context.Activities.FindAsync(id);
-            // if (activity == null)
-            // {
-            //     return NotFound();
-            // }
-            // return activity;
-            return Ok();
+            return await Mediator.Send(new Details.Query { Id = id });
         }
     }
 }
