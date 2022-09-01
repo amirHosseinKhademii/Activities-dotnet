@@ -1,3 +1,4 @@
+using AutoMapper;
 using Domain;
 using MediatR;
 using Presistence;
@@ -14,9 +15,11 @@ namespace Application.Activities
         public class Handler : IRequestHandler<Command>
         {
             private readonly DataContext _context;
+            private readonly IMapper _mapper;
 
-            public Handler(DataContext context)
+            public Handler(DataContext context, IMapper mapper)
             {
+                _mapper = mapper;
                 _context = context;
 
             }
@@ -26,7 +29,7 @@ namespace Application.Activities
 
                 if (prev != null)
                 {
-                    prev.Title = request.Activity.Title ?? prev.Title;
+                    _mapper.Map(request.Activity, prev);
                 }
 
 

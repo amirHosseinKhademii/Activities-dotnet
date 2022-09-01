@@ -2,6 +2,7 @@ using Presistence;
 using Microsoft.EntityFrameworkCore;
 using MediatR;
 using Application.Activities;
+using Application.Core;
 
 var builder = WebApplication.CreateBuilder(args);
 var _config = builder.Configuration.GetConnectionString("DefaultConnection");
@@ -15,7 +16,7 @@ builder.Services.AddDbContext<DataContext>(options =>
     options.UseSqlite(_config);
 });
 builder.Services.AddMediatR(typeof(List.Handler).Assembly);
-
+builder.Services.AddAutoMapper(typeof(MappingProfiles).Assembly);
 var context = builder.Services.BuildServiceProvider().GetService<DataContext>();
 context.Database.Migrate();
 

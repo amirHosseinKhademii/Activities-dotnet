@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "/enOyH0Vw/8Q+4WWpsbHxmX8dXUIH5X6EMioxfMP53RV+5nuWINNlvB6IiiYgnl0hIhHCzL6mge/DLajkdgA+g==",
+  "dgSpecHash": "RQ0l6DMX8Z0ajzH6ildjetzZxRt66Q+6SOlGAnFVBwumSSnHC+cAo+N68UB29QiBe/uyxs9+tLG+y3ULN8RbLw==",
   "success": true,
   "projectFilePath": "/Users/amirhosseinkhademi/Job/Private/DotNet/Reactivity/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/amirhosseinkhademi/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
+    "/Users/amirhosseinkhademi/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/Users/amirhosseinkhademi/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
     "/Users/amirhosseinkhademi/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
     "/Users/amirhosseinkhademi/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/10.0.1/mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "/Users/amirhosseinkhademi/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/amirhosseinkhademi/.nuget/packages/microsoft.data.sqlite.core/6.0.6/microsoft.data.sqlite.core.6.0.6.nupkg.sha512",
     "/Users/amirhosseinkhademi/.nuget/packages/microsoft.entityframeworkcore/6.0.6/microsoft.entityframeworkcore.6.0.6.nupkg.sha512",
     "/Users/amirhosseinkhademi/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.6/microsoft.entityframeworkcore.abstractions.6.0.6.nupkg.sha512",

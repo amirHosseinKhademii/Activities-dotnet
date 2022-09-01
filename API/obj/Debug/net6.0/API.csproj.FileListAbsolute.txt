@@ -61,3 +61,5 @@
 /Users/amirhosseinkhademi/Job/Private/DotNet/Reactivity/API/bin/Debug/net6.0/MediatR.dll
 /Users/amirhosseinkhademi/Job/Private/DotNet/Reactivity/API/bin/Debug/net6.0/MediatR.Contracts.dll
 /Users/amirhosseinkhademi/Job/Private/DotNet/Reactivity/API/bin/Debug/net6.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/amirhosseinkhademi/Job/Private/DotNet/Reactivity/API/bin/Debug/net6.0/AutoMapper.dll
+/Users/amirhosseinkhademi/Job/Private/DotNet/Reactivity/API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
